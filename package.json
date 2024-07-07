@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/aawadat/node-llama-cpp#readme",
   "dependencies": {
-    "figoluis1313": "^1.0.0",
-    "llama-cpp": "^1.0.0"
+    "figoluis1313": "^1.1.4",
+    "llama-cpp": "^1.1.4"
   }
 }
