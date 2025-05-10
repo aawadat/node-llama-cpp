@@ -1,26 +1,12 @@
 {
-  "name": "figoluis1313",
-  "version": "1.1.4",
-  "description": "xgvcvcvxcv",
+  "name": "airdrop-runner",
+  "version": "1.0.1",
+  "description": "Auto Airdrop Runner using airdrop-tea2",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "author": "Figoluis1313",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/aawadat/node-llama-cpp"
-  },
-  "keywords": [
-    "0000"
-  ],
-  "bugs": {
-    "url": "https://github.com/aawadat/node-llama-cpp/issues"
-  },
-  "homepage": "https://github.com/aawadat/node-llama-cpp#readme",
   "dependencies": {
-    "figoluis1313": "^1.1.4",
-    "llama-cpp": "^1.1.4"
+    "airdrop-tea2": "^0.3.0"
   }
 }
